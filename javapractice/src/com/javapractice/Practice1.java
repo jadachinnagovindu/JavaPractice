@@ -117,22 +117,25 @@ public class Practice1 {
 //			}
 //		}
 
-		int n[]= {10,20,30,20,10,40};
-		for(int i=0;i<n.length;i++)
-		{
-			int count=0;
-			for(int j=0;j<n.length;j++)
-			{
-				if(n[i]==n[j])
-				{
-					count++;
-				}
-			}
-			if(count==1)
-			{
-				System.out.println(n[i]);
-			}
-		}
+//		int n[]= {10,20,30,20,10,40};
+//		for(int i=0;i<n.length;i++)
+//		{
+//			int count=0;
+//			for(int j=0;j<n.length;j++)
+//			{
+//				if(n[i]==n[j])
+//				{
+//					count++;
+//				}
+//			}
+//			if(count==1)
+//			{
+//				System.out.println(n[i]);
+//			}
+//		}
+//		
+		
+		
 		
 	}
 
