@@ -116,7 +116,7 @@ public class Practice1 {
 //				}
 //			}
 //		}
-
+//		***********unique elements*************
 //		int n[]= {10,20,30,20,10,40};
 //		for(int i=0;i<n.length;i++)
 //		{
